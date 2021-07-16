@@ -5,3 +5,10 @@ This repo is a collection of demos and code examples for how to deploy models on
 ## TF Hub
 
 This folder contains an example of downloading a pretrained machine learning model from TF Hub, deploying the model to Amazon SageMaker using elastic inference.  It provides to option to interact with the deployed endpoint via REST or gRCP.
+
+## Todo
+
+* Add mulitmodel endpoints
+* Add A/B testing examples
+* Add rightsizing GPU / EIA options
+* Add lambda / API gateway integration
